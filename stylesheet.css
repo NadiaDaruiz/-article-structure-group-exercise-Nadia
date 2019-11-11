@@ -81,19 +81,18 @@ main {
 .box-2 {
     background-color: lightgrey;
     display: flex;
-    align-items: flex-start;
     flex-direction: column;
-    height: 150px;
-    width: 70%;
+    /* height: 150px; */
+    width: 100%;
 }
 
 .box-3 {
     background-color: lightgrey;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
-    height: 80px;
-    width: 70%;
+    /* align-items: flex-start; */
+    /* height: 80px; */
+    width: 100%;
 }
 p {
     margin-top: 20px;
